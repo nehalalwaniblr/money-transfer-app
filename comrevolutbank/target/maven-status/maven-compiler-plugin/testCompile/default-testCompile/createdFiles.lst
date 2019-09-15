@@ -1,0 +1,5 @@
+com/revolut/money/transfer/dao/AccountDaoTest.class
+com/revolut/money/transfer/util/TransferMoneyJob.class
+com/revolut/money/transfer/service/TransactionServiceTest.class
+com/revolut/money/transfer/service/AccountServiceTest.class
+com/revolut/money/transfer/dao/TransactionDaoTest.class
