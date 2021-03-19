@@ -1,4 +1,4 @@
-# revolut-banking-example
+banking-example
 # Simple implementation of RESTful API for money transfers between accounts.
 
 ## Task
@@ -14,7 +14,7 @@ Design and implement a RESTful API (including data model and the backing impleme
 1. Demonstrate with tests that the API works as expected.
 
 To run the application: run the jar in the target folder with the command:-
-java -jar com.revolut.bank-1.0-SNAPSHOT.jar
+java -jar com.bank-1.0-SNAPSHOT.jar
 
 Services exposed:
 GET: http://localhost:8080/account/1 (get account by account id)
